@@ -1,0 +1,30 @@
+# Node & Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Java & Backend build artifacts
+backend/target/
+backend/*.jar
+backend/*.war
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+*.class
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
